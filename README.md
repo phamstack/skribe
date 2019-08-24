@@ -3,7 +3,7 @@ Welcome to the Repo for the Smart Lecture Notes ACM Project!
 
 # Demo
 
-<img src="./static/demo.gif" width="200">
+<img src="./static/demo.gif" width="270">
 
 ## Goal
 The goal of this project is to create an application that will allow the user to take a picture of handwritten notes and make that text searchable, both by words and by headings, graphics, etc.
